@@ -16,13 +16,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:unmeshraj.raj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://www.linkedin.com/in/unmeshraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/unmeshraj" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
+  <a href="https://github.com/theunmeshraj">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-  <a href="https://twitter.com/theUnmeshRaj">
+  <a href="https://twitter.com/theunmeshraj">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 
