@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <a href="https://leetcode.com/unmeshraj" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/320px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode Logo" target="_blank" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/320px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode Logo" target="_blank" width="100" />
 </a>
 
 
