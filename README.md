@@ -19,12 +19,7 @@
   <a href="https://www.linkedin.com/in/unmeshraj/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/theunmeshraj">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-  <a href="https://twitter.com/theunmeshraj">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+
 </br>
 <a href="https://leetcode.com/unmeshraj" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Funmeshraj&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Badge" target="_blank" width="100" height="23" />
