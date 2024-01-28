@@ -22,9 +22,9 @@
   <a href="https://linkedin.com/in/unmeshraj" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
   </a>
-<a href="https://leetcode.com/unmeshraj" target="blank">
-    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpf4pv463ham6r5azn0qt.png" alt="LeetCode Logo" target="blank" width="100" height="28" />
-</a>
+  <a href="https://twitter.com/theUnmeshRaj">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
 
 
 
