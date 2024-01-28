@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <a href="https://leetcode.com/unmeshraj" target="_blank">
-    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpf4pv463ham6r5azn0qt.png" alt="LeetCode Logo" target="_blank" width="100" />
+    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpf4pv463ham6r5azn0qt.png" alt="LeetCode Logo" target="_blank" width="100" height="30" />
 </a>
 
 
