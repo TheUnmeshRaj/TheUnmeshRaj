@@ -24,9 +24,10 @@
   <a href="https://linkedin.com/in/unmeshraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://leetcode.com/unmeshraj" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<a href="https://leetcode.com/unmeshraj" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode Logo" target="_blank" />
+</a>
+
 </div>
 
  <hr/>
