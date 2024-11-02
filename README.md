@@ -15,9 +15,9 @@
  
  🔭 I’m currently pursuing my Bachelor's Degree from  **R V College of Engineering**
  
- 🌱 I’m currently learning **Data Structures and Algorithm**
+ 🌱 I’m learning **Machine Learning**, focusing on building models.
 
-💬 I am interested in **Web development, Blockchain, Cryptography**
+💬 I am interested in **Web development, Blockchain, Cryptography, Data Structures and Algorithm**
  </div>
  
 <div align="center"> 
