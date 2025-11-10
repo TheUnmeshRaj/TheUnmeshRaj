@@ -1,12 +1,9 @@
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=theUnmeshRaj&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=theUnmeshRaj&style=flat" alt="Profile Views">
 </div>
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Unmesh+Raj!;" />
-</h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=900&width=435&lines=is+this+long+eugh%3F;i+meant+enogh;*enough;this+is+never+ending;or+as+long+as+the+link+could+accept;i+am+pushing+it+to+its+limits;still+works+huh;read+few+random+lines;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;hmm+still+works;adding+more+lines;yup+still+going;maybe+this+breaks+it;guess+not;anyways+i+was+asking+whether;" />
+</div>
 <h3 align="center">A passionate coder</h3>
 
 <br/>
