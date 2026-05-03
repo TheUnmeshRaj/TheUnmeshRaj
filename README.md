@@ -16,7 +16,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=RVCE+Student;Machine+Learning+Enthusiast;Web+Dev+%7C+Cryptography+%7C+DSA;Building+projects+that+solve+real+problems" alt="Typing SVG 2" />
     </td>
     <td align="right" width="25%" style="border:none; padding:0;">
-      <img src="https://github.com/TheUnmeshRaj/TheUnmeshRaj/blob/main/PC.gif" width="190" alt="PC GIF" />
+      <img src="https://github.com/TheUnmeshRaj/TheUnmeshRaj/blob/main/giphy.gif" height="120%" width="full" alt="PC GIF" />
     </td>
   </tr>
 </table>
